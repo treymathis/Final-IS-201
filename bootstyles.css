@@ -1,0 +1,49 @@
+.header {
+    /* top: 45px; */
+    background-color: beige;
+    left: 6px;
+    right: 6px;
+    height: 73px;
+    text-align: right;
+    padding-right: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    z-index: 2;
+    border-bottom: dotted 4px #555555;
+}
+
+
+.main {
+    text-align: center;
+    color: rgb(95, 27, 121);
+    text-decoration: underline;
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.main1 {
+    top: 1px;
+}
+
+.main2 {
+    top: 10px;
+}
+
+.main3 {
+    top: 20px;
+}
+
+.main4 {
+    top: 30px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 20px;
+    left: 5px; 
+    right: 5px;
+    text-align: center;
+    font-size: 15px;
+    position: fixed;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
